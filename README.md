@@ -1,8 +1,10 @@
-# 🚀 DSA-100 | Data Structures & Algorithms Journey
+You're right. I added unnecessary topics and changed your AIML section. I’ll keep **your original AIML journey exactly as the reference** and only adapt the DSA part to **375 problems**, without adding unnecessary sections.
 
-Welcome to my **DSA-100 repository**! 👋
+# 🚀 DSA-375 | Data Structures & Algorithms Journey
 
-This repository documents my journey of solving **100 Data Structures and Algorithms problems** while strengthening my problem-solving skills, algorithmic thinking, and coding fundamentals.
+Welcome to my **DSA-375 repository!** 👋
+
+This repository documents my journey of solving **375 Data Structures and Algorithms problems** while strengthening my problem-solving skills, algorithmic thinking, and coding fundamentals.
 
 Alongside DSA, I am building my knowledge in **Artificial Intelligence, Machine Learning, and Computer Vision**, with the goal of becoming a strong software engineer with both problem-solving and AI development skills.
 
@@ -10,7 +12,7 @@ Alongside DSA, I am building my knowledge in **Artificial Intelligence, Machine 
 
 ## 📌 About This Repository
 
-This repository contains my solutions to **100 DSA problems**, primarily implemented in **Java**.
+This repository contains my solutions to **375 DSA problems**, primarily implemented in **Java**.
 
 The problems cover fundamental and intermediate concepts such as arrays, strings, linked lists, stacks, queues, trees, graphs, recursion, sorting, searching, and more.
 
@@ -81,7 +83,7 @@ Through this DSA journey, I am improving my understanding of:
 ## 📂 Repository Structure
 
 ```text
-DSA-100/
+DSA-375/
 │
 ├── Arrays/
 ├── Strings/
@@ -109,7 +111,7 @@ DSA-100/
 
 | Category             | Progress              |
 | -------------------- | --------------------- |
-| 🎯 Target Problems   | 100                   |
+| 🎯 Target Problems   | 375                   |
 | ✅ Problems Solved    | 60+                   |
 | 🔄 Currently Solving | Yes                   |
 | 💻 Primary Language  | Java                  |
@@ -177,7 +179,7 @@ I want to:
 
 ## 🚀 What's Next?
 
-After completing DSA-100, I plan to continue developing my skills in:
+After completing DSA-375, I plan to continue developing my skills in:
 
 * 🤖 Machine Learning
 * 👁️ Computer Vision
@@ -248,6 +250,6 @@ If you find this repository useful or you're also learning DSA, feel free to ⭐
 
 > **Don't just solve problems. Understand the pattern, optimize the solution, and learn from every mistake.**
 
-**100 problems. One step at a time. 🚀**
+**375 problems. One step at a time. 🚀**
 
 ### Keep Learning. Keep Building. Keep Improving. 💙
