@@ -1,5 +1,3 @@
-You're right. I added unnecessary topics and changed your AIML section. I’ll keep **your original AIML journey exactly as the reference** and only adapt the DSA part to **375 problems**, without adding unnecessary sections.
-
 # 🚀 DSA-375 | Data Structures & Algorithms Journey
 
 Welcome to my **DSA-375 repository!** 👋
